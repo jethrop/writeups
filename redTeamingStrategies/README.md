@@ -8,4 +8,5 @@ The attack paths were based on the cybersecurity card game Backdoors and Breache
 
 Backdoors and Breaches website: https://www.blackhillsinfosec.com/projects/backdoorsandbreaches/
 
-Note that the class is currently ongoing and will be till mid April.  As such the writeup documentation is somewhat incomplete.
+Note that the writeups were written in the context of a college course and some assumptions about technical and environment understanding are assumed.
+The class is currently ongoing and will be till mid April.  As such the writeup documentation is somewhat incomplete.
