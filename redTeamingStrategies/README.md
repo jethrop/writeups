@@ -1,4 +1,4 @@
-These are writeups completed for my IT420, red teaming strategies class at ensign college.  In this class we completed four attack paths, each path consisting of 4-5 techniques that walked through the four main stages of a penetration test or hack:
+These are writeups completed for my IT420, red teaming strategies class at ensign college.  The writeups are formated as a chronological documentation of the process I took to complete the class clabs.  In the IT420 we completed four attack paths, each path consisting of 4-5 techniques that walked through the four main stages of a penetration test or hack:
 1. Initial Compromise
 2. Pivot and Escalate
 3. Persistence
