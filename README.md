@@ -8,3 +8,4 @@ These are writeups completed for my IT420, red teaming strategies class at ensig
     Pivot and Escalate
     Persistence
     C2 and EXFIL
+https://github.com/jethrop/writeups/tree/main/redTeamingStrategies
