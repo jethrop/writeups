@@ -1,4 +1,4 @@
-## [writeups](https://github.com/jethrop/writeups/)
+## [Writeups](https://github.com/jethrop/writeups/)
 This repository is for writeups I complete for various hacking chalenges or other technical concepts.
 
 # [redTeamingStrategies](https://github.com/jethrop/writeups/tree/main/redTeamingStrategies)
